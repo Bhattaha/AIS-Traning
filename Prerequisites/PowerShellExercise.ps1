@@ -34,12 +34,13 @@ try
             write-host $words[$i] is not a palindrome!
         }
 
-        # Intentional code to show try-catch block
-        #$raiseError = 10/$i
+        #Intentional code to show try-catch block
+       # $raiseError = 10/$i
     }
 
 }
 catch
 {
     Write-Error $_
+   
 }
