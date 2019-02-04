@@ -1,0 +1,7 @@
+D:\AIS Training\AisC#Training\QueueImplementationCSharp\bin\Debug\QueueImplementationCSharp.exe.config
+D:\AIS Training\AisC#Training\QueueImplementationCSharp\bin\Debug\QueueImplementationCSharp.exe
+D:\AIS Training\AisC#Training\QueueImplementationCSharp\bin\Debug\QueueImplementationCSharp.pdb
+D:\AIS Training\AisC#Training\QueueImplementationCSharp\obj\Debug\QueueImplementationCSharp.csprojAssemblyReference.cache
+D:\AIS Training\AisC#Training\QueueImplementationCSharp\obj\Debug\QueueImplementationCSharp.csproj.CoreCompileInputs.cache
+D:\AIS Training\AisC#Training\QueueImplementationCSharp\obj\Debug\QueueImplementationCSharp.exe
+D:\AIS Training\AisC#Training\QueueImplementationCSharp\obj\Debug\QueueImplementationCSharp.pdb
