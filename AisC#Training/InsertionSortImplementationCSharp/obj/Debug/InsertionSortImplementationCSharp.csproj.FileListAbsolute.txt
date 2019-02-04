@@ -1,0 +1,7 @@
+D:\AIS Training\AisC#Training\InsertionSortImplementationCSharp\bin\Debug\InsertionSortImplementationCSharp.exe.config
+D:\AIS Training\AisC#Training\InsertionSortImplementationCSharp\bin\Debug\InsertionSortImplementationCSharp.exe
+D:\AIS Training\AisC#Training\InsertionSortImplementationCSharp\bin\Debug\InsertionSortImplementationCSharp.pdb
+D:\AIS Training\AisC#Training\InsertionSortImplementationCSharp\obj\Debug\InsertionSortImplementationCSharp.csprojAssemblyReference.cache
+D:\AIS Training\AisC#Training\InsertionSortImplementationCSharp\obj\Debug\InsertionSortImplementationCSharp.csproj.CoreCompileInputs.cache
+D:\AIS Training\AisC#Training\InsertionSortImplementationCSharp\obj\Debug\InsertionSortImplementationCSharp.exe
+D:\AIS Training\AisC#Training\InsertionSortImplementationCSharp\obj\Debug\InsertionSortImplementationCSharp.pdb
