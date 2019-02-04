@@ -1,0 +1,7 @@
+D:\AIS Training\AisC#Training\StackImplementationInCSharp\obj\Debug\StackImplementationInCSharp.csprojAssemblyReference.cache
+D:\AIS Training\AisC#Training\StackImplementationInCSharp\obj\Debug\StackImplementationInCSharp.csproj.CoreCompileInputs.cache
+D:\AIS Training\AisC#Training\StackImplementationInCSharp\bin\Debug\StackImplementationInCSharp.exe.config
+D:\AIS Training\AisC#Training\StackImplementationInCSharp\bin\Debug\StackImplementationInCSharp.exe
+D:\AIS Training\AisC#Training\StackImplementationInCSharp\bin\Debug\StackImplementationInCSharp.pdb
+D:\AIS Training\AisC#Training\StackImplementationInCSharp\obj\Debug\StackImplementationInCSharp.exe
+D:\AIS Training\AisC#Training\StackImplementationInCSharp\obj\Debug\StackImplementationInCSharp.pdb
