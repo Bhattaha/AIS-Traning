@@ -1,0 +1,7 @@
+D:\AIS Training\AisC#Training\MergeSortImplementationCSharp\bin\Debug\MergeSortImplementationCSharp.exe.config
+D:\AIS Training\AisC#Training\MergeSortImplementationCSharp\bin\Debug\MergeSortImplementationCSharp.exe
+D:\AIS Training\AisC#Training\MergeSortImplementationCSharp\bin\Debug\MergeSortImplementationCSharp.pdb
+D:\AIS Training\AisC#Training\MergeSortImplementationCSharp\obj\Debug\MergeSortImplementationCSharp.csprojAssemblyReference.cache
+D:\AIS Training\AisC#Training\MergeSortImplementationCSharp\obj\Debug\MergeSortImplementationCSharp.csproj.CoreCompileInputs.cache
+D:\AIS Training\AisC#Training\MergeSortImplementationCSharp\obj\Debug\MergeSortImplementationCSharp.exe
+D:\AIS Training\AisC#Training\MergeSortImplementationCSharp\obj\Debug\MergeSortImplementationCSharp.pdb
