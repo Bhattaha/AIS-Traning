@@ -1,0 +1,7 @@
+D:\AIS Training\AisC#Training\TB.FibonacciSeries\bin\Debug\TB.FibonacciSeries.exe.config
+D:\AIS Training\AisC#Training\TB.FibonacciSeries\bin\Debug\TB.FibonacciSeries.exe
+D:\AIS Training\AisC#Training\TB.FibonacciSeries\bin\Debug\TB.FibonacciSeries.pdb
+D:\AIS Training\AisC#Training\TB.FibonacciSeries\obj\Debug\TB.FibonacciSeries.csprojAssemblyReference.cache
+D:\AIS Training\AisC#Training\TB.FibonacciSeries\obj\Debug\TB.FibonacciSeries.csproj.CoreCompileInputs.cache
+D:\AIS Training\AisC#Training\TB.FibonacciSeries\obj\Debug\TB.FibonacciSeries.exe
+D:\AIS Training\AisC#Training\TB.FibonacciSeries\obj\Debug\TB.FibonacciSeries.pdb
