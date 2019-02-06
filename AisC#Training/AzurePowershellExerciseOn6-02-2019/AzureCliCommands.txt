@@ -1,0 +1,14 @@
+Azure Cli Commands/Script
+
+//Command For connecting to account
+Connect-AzAccount
+
+// Command For creating Resource group
+az group create --name rggrp1 --location westus
+
+//Command For creating Vm
+az vm create --resource-group rggrp1 --name jbVm --image win2016datacenter --admin-username testadmin --admin-password Support@1234
+
+//Command For Creating Storage Account
+az storage account create --name storagequickstart --resource-group storage-quickstart-resource-group --location westus --sku Standard_LRS --kind StorageV2
+

@@ -1,0 +1,18 @@
+//Command For Connecting Azure Account
+Connect-AzureRmAccount
+
+//command For Creating a new ResourceGroup
+New-AzureRmResourceGroup -Name RG01 -Location "South Central US"
+
+ //Command For Creating a Virtual machine
+New-AzureRmVm -ResourceGroupName "RG01" -Name "TahaVM1" -Location "East US" -VirtualNetworkName "myVnet" -SubnetName "mySubnet" -SecurityGroupName "myNetworkSecurityGroup" -PublicIpAddressName "myPublicIpAddress" -ImageName "MicrosoftWindowsServer:WindowsServer:2016-Datacenter-with-Containers:latest" -OpenPorts 80,3389
+
+//Command For creating Storage account
+New-AzureRmStorageAccount -ResourceGroupName "RG01" -AccountName mystorageaccount -Location westus -SkuName Standard_GRS  -AccessTier Hot
+
+
+
+
+
+
+
