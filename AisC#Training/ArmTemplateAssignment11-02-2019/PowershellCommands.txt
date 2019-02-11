@@ -1,0 +1,6 @@
+
+ New-AzureRmResourceGroupDeployment -Name rsvVmDeployment -ResourceGroupName Arm-Ps-RG -TemplateFile D:\Templates\addVmToRsv.json
+ New-AzureRmResourceGroupDeployment -Name rsvDeployment -ResourceGroupName Arm-Ps-RG -TemplateFile D:\Templates\recoveryservicevault.json
+New-AzureRmResourceGroupDeployment -Name myDeployment123 -ResourceGroupName Arm-Ps-RG -TemplateFile D:\Templates\linuxvmdep.json
+ New-AzureRmResourceGroupDeployment -Name myDeployment12 -ResourceGroupName Arm-Ps-RG -TemplateFile D:\Templates\windowsvmtemplate.json
+ New-AzureRmResourceGroupDeployment -Name myDeployment1 -ResourceGroupName Arm-Ps-RG -TemplateFile D:\Templates\TemplateForVnet.json
